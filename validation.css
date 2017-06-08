@@ -1,0 +1,19 @@
+#email:valid
+{
+	background-color: lightgreen;
+}
+
+#email:invalid
+{
+	background-color: red;
+}
+
+#url:valid
+{
+	background-color: lightgreen;
+}
+
+#url:invalid
+{
+	background-color: red;
+}
